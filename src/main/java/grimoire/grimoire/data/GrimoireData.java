@@ -44,7 +44,7 @@ public class GrimoireData {
         save(Grimoire.GrimoireFile);
     }
 
-    public static void PlayerNickNameChange(int num,String NickName){//制定玩家昵称修改
+    public static void PlayerNickNameChange(int num,String NickName){//指定玩家昵称修改
         PlayerNickName[num] = NickName;
     }
 
