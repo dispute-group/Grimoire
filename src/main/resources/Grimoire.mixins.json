@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "grimoire.grimoire.network.packet.servertoplayer",
+  "package": "grimoire.grimoire.mixin",
   "compatibilityLevel": "JAVA_17",
   "refmap": "examplemod.refmap.json",
   "mixins": [
